@@ -1,1 +1,0 @@
-### Lumox Maxima
