@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: Hello, World !
 description: LIVE EVERYDAY AND DON'T GIVE UP
+
+permalink: /blog/:year/:month/:day/:title
+
