@@ -1,6 +1,6 @@
 # yunmil.github.io
 
-#### How do I think? How do I code? Everything starts with first step. 
-##### Don't be afraid and grow step by step. 
+#### YM's Portfolio & Note Page 
+##### CompSci.2021
 
 
