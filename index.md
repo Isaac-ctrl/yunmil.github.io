@@ -2,17 +2,15 @@
 
 ***Intro YM*** 
 
-**EDUCATION**
-Bachelor of Science Computer Science, University Of California, IRVINE
-Specialization: Network Systems
+**EDUCATION**<br/>
+Bachelor of Computer Science, UC Irvine<br/>
+specialization: Network Systems<br/>
 
-**SKILLS**
-✓ C, C++, Java, Python, Swift (very Interested in IOS Development**) 
-✓ HTML&CSS, JavaScript&JQuery
-✓ UI/UX Design
-
+**SKILLS**<br/>
+✓ C, C++, Java, Python, Swift (esp. Interest in IOS Development**)<br/>
+✓ HTML&CSS, JQuery&JavaScript<br/>
 
 
-[LinkedIn](http://linkedin.com/in/yunmil) 
+[LinkedIn](http://linkedin.com/in/yunmil)<br/>
 [posts](http://yunmil.github.io/blog/)
 
