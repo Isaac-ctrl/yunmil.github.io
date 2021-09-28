@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: YM's Hello, World !
-description: LIVE EVERYDAY AND DON'T GIVE UP
+title: Hej, Värld
+description: CompSci.UCI.io 
 
 permalink: /blog/:year/:month/:day/:title
 
