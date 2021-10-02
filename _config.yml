@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Hej, Värld
+title: Hello, World 
 description: YM Lee, CompSci.UCI.io 
 
 permalink: /blog/:year/:month/:day/:title
